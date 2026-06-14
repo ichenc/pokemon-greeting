@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png" width="250" height="250" alt="Ducklett">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png" width="250" height="250" alt="Spidops">
 
-# **Ducklett** is here to wish you well!
+# **Spidops** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#580</strong></td>
-<td align="center"><strong>Water / Flying</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>5.5 kg</strong></td>
+<td align="center"><strong>#918</strong></td>
+<td align="center"><strong>Bug</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>16.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Keen Eye, Big Pecks**
+**Insomnia, Stakeout**
 
-### 📊 Base Stats (Total: 305)
+### 📊 Base Stats (Total: 404)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 62 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 44 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: June 14, 2026 at 02:48 UTC*
+*Last updated: June 14, 2026 at 22:30 UTC*
 
 ---
 
