@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png" width="250" height="250" alt="Spidops">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png" width="250" height="250" alt="Houndoom">
 
-# **Spidops** is here to wish you well!
+# Greetings from **Houndoom**!
 
 <table>
 <tr>
-<td align="center"><strong>#918</strong></td>
-<td align="center"><strong>Bug</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>16.5 kg</strong></td>
+<td align="center"><strong>#229</strong></td>
+<td align="center"><strong>Dark / Fire</strong></td>
+<td align="center"><strong>1.4 m</strong></td>
+<td align="center"><strong>35.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Insomnia, Stakeout**
+**Early Bird, Flash Fire**
 
-### 📊 Base Stats (Total: 404)
+### 📊 Base Stats (Total: 500)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 79 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 92 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: June 14, 2026 at 22:30 UTC*
+*Last updated: June 21, 2026 at 04:16 UTC*
 
 ---
 
