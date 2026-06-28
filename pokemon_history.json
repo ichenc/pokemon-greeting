@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-15T01:02:54.003457",
-    "pokemon_id": 268,
-    "pokemon_name": "Cascoon",
-    "types": "Bug"
-  },
-  {
     "timestamp": "2025-10-16T01:02:36.514608",
     "pokemon_id": 699,
     "pokemon_name": "Aurorus",
@@ -598,5 +592,11 @@
     "pokemon_id": 229,
     "pokemon_name": "Houndoom",
     "types": "Dark / Fire"
+  },
+  {
+    "timestamp": "2026-06-28T03:53:28.753964",
+    "pokemon_id": 737,
+    "pokemon_name": "Charjabug",
+    "types": "Bug / Electric"
   }
 ]
