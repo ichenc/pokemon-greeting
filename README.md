@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png" width="250" height="250" alt="Charjabug">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png" width="250" height="250" alt="Durant">
 
-# **Charjabug** is here to wish you well!
+# A wild **Durant** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#737</strong></td>
-<td align="center"><strong>Bug / Electric</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>10.5 kg</strong></td>
+<td align="center"><strong>#632</strong></td>
+<td align="center"><strong>Bug / Steel</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>33.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Battery**
+**Swarm, Hustle**
 
-### 📊 Base Stats (Total: 400)
+### 📊 Base Stats (Total: 484)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 57 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 82 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 36 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 109 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| 🛡️ Defense | 112 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ⚡ Speed | 109 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Wishing you happiness and success! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: June 28, 2026 at 03:53 UTC*
+*Last updated: July 05, 2026 at 03:26 UTC*
 
 ---
 
