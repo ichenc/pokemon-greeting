@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17T01:02:13.720943",
-    "pokemon_id": 626,
-    "pokemon_name": "Bouffalant",
-    "types": "Normal"
-  },
-  {
     "timestamp": "2025-10-18T00:59:34.651978",
     "pokemon_id": 687,
     "pokemon_name": "Malamar",
@@ -598,5 +592,11 @@
     "pokemon_id": 632,
     "pokemon_name": "Durant",
     "types": "Bug / Steel"
+  },
+  {
+    "timestamp": "2026-07-12T02:47:15.991182",
+    "pokemon_id": 453,
+    "pokemon_name": "Croagunk",
+    "types": "Poison / Fighting"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png" width="250" height="250" alt="Durant">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png" width="250" height="250" alt="Croagunk">
 
-# A wild **Durant** appeared to greet you!
+# Say hello to **Croagunk**!
 
 <table>
 <tr>
-<td align="center"><strong>#632</strong></td>
-<td align="center"><strong>Bug / Steel</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>33.0 kg</strong></td>
+<td align="center"><strong>#453</strong></td>
+<td align="center"><strong>Poison / Fighting</strong></td>
+<td align="center"><strong>0.7 m</strong></td>
+<td align="center"><strong>23.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swarm, Hustle**
+**Anticipation, Dry Skin**
 
-### 📊 Base Stats (Total: 484)
+### 📊 Base Stats (Total: 300)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 58 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 109 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| 🛡️ Defense | 112 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
-| ⚡ Speed | 109 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 61 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: July 05, 2026 at 03:26 UTC*
+*Last updated: July 12, 2026 at 02:47 UTC*
 
 ---
 
