@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png" width="250" height="250" alt="Croagunk">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png" width="250" height="250" alt="Hypno">
 
-# Say hello to **Croagunk**!
+# Greetings from **Hypno**!
 
 <table>
 <tr>
-<td align="center"><strong>#453</strong></td>
-<td align="center"><strong>Poison / Fighting</strong></td>
-<td align="center"><strong>0.7 m</strong></td>
-<td align="center"><strong>23.0 kg</strong></td>
+<td align="center"><strong>#097</strong></td>
+<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>1.6 m</strong></td>
+<td align="center"><strong>75.6 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Anticipation, Dry Skin**
+**Insomnia, Forewarn**
 
-### 📊 Base Stats (Total: 300)
+### 📊 Base Stats (Total: 483)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 61 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: July 12, 2026 at 02:47 UTC*
+*Last updated: July 19, 2026 at 02:43 UTC*
 
 ---
 
