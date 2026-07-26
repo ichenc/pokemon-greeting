@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png" width="250" height="250" alt="Hypno">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png" width="250" height="250" alt="Pansage">
 
-# Greetings from **Hypno**!
+# You have been greeted by **Pansage**
 
 <table>
 <tr>
-<td align="center"><strong>#097</strong></td>
-<td align="center"><strong>Psychic</strong></td>
-<td align="center"><strong>1.6 m</strong></td>
-<td align="center"><strong>75.6 kg</strong></td>
+<td align="center"><strong>#511</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>0.6 m</strong></td>
+<td align="center"><strong>10.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Insomnia, Forewarn**
+**Gluttony, Overgrow**
 
-### 📊 Base Stats (Total: 483)
+### 📊 Base Stats (Total: 316)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 67 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 64 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: July 19, 2026 at 02:43 UTC*
+*Last updated: July 26, 2026 at 02:47 UTC*
 
 ---
 
