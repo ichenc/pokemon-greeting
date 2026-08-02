@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-20T01:07:28.823231",
-    "pokemon_id": 705,
-    "pokemon_name": "Sliggoo",
-    "types": "Dragon"
-  },
-  {
     "timestamp": "2025-10-21T01:04:08.228705",
     "pokemon_id": 460,
     "pokemon_name": "Abomasnow",
@@ -598,5 +592,11 @@
     "pokemon_id": 511,
     "pokemon_name": "Pansage",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2026-08-02T02:47:04.164014",
+    "pokemon_id": 505,
+    "pokemon_name": "Watchog",
+    "types": "Normal"
   }
 ]

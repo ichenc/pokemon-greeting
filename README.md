@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png" width="250" height="250" alt="Pansage">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png" width="250" height="250" alt="Watchog">
 
-# You have been greeted by **Pansage**
+# **Watchog** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#511</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>0.6 m</strong></td>
-<td align="center"><strong>10.5 kg</strong></td>
+<td align="center"><strong>#505</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>1.1 m</strong></td>
+<td align="center"><strong>27.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Gluttony, Overgrow**
+**Illuminate, Keen Eye**
 
-### 📊 Base Stats (Total: 316)
+### 📊 Base Stats (Total: 420)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 53 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 48 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 64 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 69 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: July 26, 2026 at 02:47 UTC*
+*Last updated: August 02, 2026 at 02:47 UTC*
 
 ---
 
