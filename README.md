@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png" width="250" height="250" alt="Helioptile">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png" width="250" height="250" alt="Walking-Wake">
 
-# Greetings from **Helioptile**!
+# A wild **Walking-Wake** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#694</strong></td>
-<td align="center"><strong>Electric / Normal</strong></td>
-<td align="center"><strong>0.5 m</strong></td>
-<td align="center"><strong>6.0 kg</strong></td>
+<td align="center"><strong>#1009</strong></td>
+<td align="center"><strong>Water / Dragon</strong></td>
+<td align="center"><strong>3.5 m</strong></td>
+<td align="center"><strong>280.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Dry Skin, Sand Veil**
+**Protosynthesis**
 
-### 📊 Base Stats (Total: 289)
+### 📊 Base Stats (Total: 590)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 44 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 38 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 33 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 99 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 83 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 91 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚡ Speed | 109 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: August 02, 2026 at 01:56 UTC*
+*Last updated: August 09, 2026 at 01:02 UTC*
 
 ---
 
