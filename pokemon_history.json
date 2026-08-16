@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-21T01:04:08.228705",
-    "pokemon_id": 460,
-    "pokemon_name": "Abomasnow",
-    "types": "Grass / Ice"
-  },
-  {
     "timestamp": "2025-10-22T01:05:12.792696",
     "pokemon_id": 418,
     "pokemon_name": "Buizel",
@@ -598,5 +592,11 @@
     "pokemon_id": 1009,
     "pokemon_name": "Walking-Wake",
     "types": "Water / Dragon"
+  },
+  {
+    "timestamp": "2026-08-16T00:46:42.985256",
+    "pokemon_id": 317,
+    "pokemon_name": "Swalot",
+    "types": "Poison"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png" width="250" height="250" alt="Walking-Wake">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png" width="250" height="250" alt="Swalot">
 
-# A wild **Walking-Wake** appeared to greet you!
+# Greetings from **Swalot**!
 
 <table>
 <tr>
-<td align="center"><strong>#1009</strong></td>
-<td align="center"><strong>Water / Dragon</strong></td>
-<td align="center"><strong>3.5 m</strong></td>
-<td align="center"><strong>280.0 kg</strong></td>
+<td align="center"><strong>#317</strong></td>
+<td align="center"><strong>Poison</strong></td>
+<td align="center"><strong>1.7 m</strong></td>
+<td align="center"><strong>80.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Protosynthesis**
+**Liquid Ooze, Sticky Hold**
 
-### 📊 Base Stats (Total: 590)
+### 📊 Base Stats (Total: 467)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 99 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 83 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 91 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚡ Speed | 109 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 83 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a wonderful day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: August 09, 2026 at 01:02 UTC*
+*Last updated: August 16, 2026 at 00:46 UTC*
 
 ---
 
