@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-22T01:05:12.792696",
-    "pokemon_id": 418,
-    "pokemon_name": "Buizel",
-    "types": "Water"
-  },
-  {
     "timestamp": "2025-10-23T01:03:25.508943",
     "pokemon_id": 980,
     "pokemon_name": "Clodsire",
@@ -598,5 +592,11 @@
     "pokemon_id": 713,
     "pokemon_name": "Avalugg",
     "types": "Ice"
+  },
+  {
+    "timestamp": "2026-08-16T01:17:29.427993",
+    "pokemon_id": 69,
+    "pokemon_name": "Bellsprout",
+    "types": "Grass / Poison"
   }
 ]

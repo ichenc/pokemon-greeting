@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png" width="250" height="250" alt="Avalugg">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png" width="250" height="250" alt="Bellsprout">
 
-# **Avalugg** wants to brighten your day!
+# **Bellsprout** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#713</strong></td>
-<td align="center"><strong>Ice</strong></td>
-<td align="center"><strong>2.0 m</strong></td>
-<td align="center"><strong>505.0 kg</strong></td>
+<td align="center"><strong>#069</strong></td>
+<td align="center"><strong>Grass / Poison</strong></td>
+<td align="center"><strong>0.7 m</strong></td>
+<td align="center"><strong>4.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Own Tempo, Ice Body**
+**Chlorophyll, Gluttony**
 
-### 📊 Base Stats (Total: 514)
+### 📊 Base Stats (Total: 300)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 117 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 184 | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` |
-| ⚡ Speed | 28 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: August 09, 2026 at 01:44 UTC*
+*Last updated: August 16, 2026 at 01:17 UTC*
 
 ---
 
