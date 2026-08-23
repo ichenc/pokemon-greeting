@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png" width="250" height="250" alt="Bellsprout">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png" width="250" height="250" alt="Magmar">
 
-# **Bellsprout** is here to wish you well!
+# Say hello to **Magmar**!
 
 <table>
 <tr>
-<td align="center"><strong>#069</strong></td>
-<td align="center"><strong>Grass / Poison</strong></td>
-<td align="center"><strong>0.7 m</strong></td>
-<td align="center"><strong>4.0 kg</strong></td>
+<td align="center"><strong>#126</strong></td>
+<td align="center"><strong>Fire</strong></td>
+<td align="center"><strong>1.3 m</strong></td>
+<td align="center"><strong>44.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Chlorophyll, Gluttony**
+**Flame Body, Vital Spirit**
 
-### 📊 Base Stats (Total: 300)
+### 📊 Base Stats (Total: 495)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 95 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| 🛡️ Defense | 57 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 93 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Have a wonderful day! ✨
 
-*Last updated: August 16, 2026 at 01:17 UTC*
+*Last updated: August 23, 2026 at 01:18 UTC*
 
 ---
 
