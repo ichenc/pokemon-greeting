@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-22T01:05:12.792696",
-    "pokemon_id": 418,
-    "pokemon_name": "Buizel",
-    "types": "Water"
-  },
-  {
     "timestamp": "2025-10-23T01:03:25.508943",
     "pokemon_id": 980,
     "pokemon_name": "Clodsire",
@@ -598,5 +592,11 @@
     "pokemon_id": 317,
     "pokemon_name": "Swalot",
     "types": "Poison"
+  },
+  {
+    "timestamp": "2026-08-23T00:48:29.834085",
+    "pokemon_id": 1012,
+    "pokemon_name": "Poltchageist",
+    "types": "Grass / Ghost"
   }
 ]

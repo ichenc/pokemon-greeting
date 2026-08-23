@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png" width="250" height="250" alt="Swalot">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1012.png" width="250" height="250" alt="Poltchageist">
 
-# Greetings from **Swalot**!
+# **Poltchageist** is here to wish you well!
 
 <table>
 <tr>
-<td align="center"><strong>#317</strong></td>
-<td align="center"><strong>Poison</strong></td>
-<td align="center"><strong>1.7 m</strong></td>
-<td align="center"><strong>80.0 kg</strong></td>
+<td align="center"><strong>#1012</strong></td>
+<td align="center"><strong>Grass / Ghost</strong></td>
+<td align="center"><strong>0.1 m</strong></td>
+<td align="center"><strong>1.1 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Liquid Ooze, Sticky Hold**
+**Heatproof, Hospitality**
 
-### 📊 Base Stats (Total: 467)
+### 📊 Base Stats (Total: 308)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 73 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 83 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
 ## ✨ May your day be filled with joy! ✨
 
-*Last updated: August 16, 2026 at 00:46 UTC*
+*Last updated: August 23, 2026 at 00:48 UTC*
 
 ---
 
