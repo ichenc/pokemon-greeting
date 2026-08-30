@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-24T01:00:10.865890",
-    "pokemon_id": 291,
-    "pokemon_name": "Ninjask",
-    "types": "Bug / Flying"
-  },
-  {
     "timestamp": "2025-10-25T01:01:27.991853",
     "pokemon_id": 642,
     "pokemon_name": "Thundurus-Incarnate",
@@ -598,5 +592,11 @@
     "pokemon_id": 126,
     "pokemon_name": "Magmar",
     "types": "Fire"
+  },
+  {
+    "timestamp": "2026-08-30T03:58:23.252763",
+    "pokemon_id": 326,
+    "pokemon_name": "Grumpig",
+    "types": "Psychic"
   }
 ]
