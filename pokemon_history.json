@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25T01:01:27.991853",
-    "pokemon_id": 642,
-    "pokemon_name": "Thundurus-Incarnate",
-    "types": "Electric / Flying"
-  },
-  {
     "timestamp": "2025-10-26T01:08:16.927236",
     "pokemon_id": 547,
     "pokemon_name": "Whimsicott",
@@ -598,5 +592,11 @@
     "pokemon_id": 326,
     "pokemon_name": "Grumpig",
     "types": "Psychic"
+  },
+  {
+    "timestamp": "2026-09-06T03:15:07.633762",
+    "pokemon_id": 157,
+    "pokemon_name": "Typhlosion",
+    "types": "Fire"
   }
 ]
