@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png" width="250" height="250" alt="Unfezant">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png" width="250" height="250" alt="Watchog">
 
-# Greetings from **Unfezant**!
+# **Watchog** sends you positive vibes!
 
 <table>
 <tr>
-<td align="center"><strong>#521</strong></td>
-<td align="center"><strong>Normal / Flying</strong></td>
-<td align="center"><strong>1.2 m</strong></td>
-<td align="center"><strong>29.0 kg</strong></td>
+<td align="center"><strong>#505</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>1.1 m</strong></td>
+<td align="center"><strong>27.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Big Pecks, Super Luck**
+**Illuminate, Keen Eye**
 
-### 📊 Base Stats (Total: 488)
+### 📊 Base Stats (Total: 420)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 115 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| 🛡️ Defense | 80 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 93 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 69 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: August 30, 2026 at 02:40 UTC*
+*Last updated: September 06, 2026 at 02:06 UTC*
 
 ---
 
