@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png" width="250" height="250" alt="Typhlosion">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png" width="250" height="250" alt="Fomantis">
 
-# **Typhlosion** wants to brighten your day!
+# A wild **Fomantis** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#157</strong></td>
-<td align="center"><strong>Fire</strong></td>
-<td align="center"><strong>1.7 m</strong></td>
-<td align="center"><strong>79.5 kg</strong></td>
+<td align="center"><strong>#753</strong></td>
+<td align="center"><strong>Grass</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>1.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Blaze, Flash Fire**
+**Leaf Guard, Contrary**
 
-### 📊 Base Stats (Total: 534)
+### 📊 Base Stats (Total: 250)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 78 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 84 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 78 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| ⚡ Speed | 100 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ Hope you have an amazing day ahead! ✨
 
-*Last updated: September 06, 2026 at 03:15 UTC*
+*Last updated: September 13, 2026 at 03:31 UTC*
 
 ---
 

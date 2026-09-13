@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-26T01:08:16.927236",
-    "pokemon_id": 547,
-    "pokemon_name": "Whimsicott",
-    "types": "Grass / Fairy"
-  },
-  {
     "timestamp": "2025-10-27T01:09:32.242423",
     "pokemon_id": 556,
     "pokemon_name": "Maractus",
@@ -598,5 +592,11 @@
     "pokemon_id": 157,
     "pokemon_name": "Typhlosion",
     "types": "Fire"
+  },
+  {
+    "timestamp": "2026-09-13T03:31:01.448204",
+    "pokemon_id": 753,
+    "pokemon_name": "Fomantis",
+    "types": "Grass"
   }
 ]
