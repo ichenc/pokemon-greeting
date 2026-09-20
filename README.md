@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png" width="250" height="250" alt="Fomantis">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png" width="250" height="250" alt="Azurill">
 
-# A wild **Fomantis** appeared to greet you!
+# Say hello to **Azurill**!
 
 <table>
 <tr>
-<td align="center"><strong>#753</strong></td>
-<td align="center"><strong>Grass</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>1.5 kg</strong></td>
+<td align="center"><strong>#298</strong></td>
+<td align="center"><strong>Normal / Fairy</strong></td>
+<td align="center"><strong>0.2 m</strong></td>
+<td align="center"><strong>2.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Leaf Guard, Contrary**
+**Thick Fat, Huge Power**
 
-### 📊 Base Stats (Total: 250)
+### 📊 Base Stats (Total: 190)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Hope you have an amazing day ahead! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: September 13, 2026 at 03:31 UTC*
+*Last updated: September 20, 2026 at 03:43 UTC*
 
 ---
 

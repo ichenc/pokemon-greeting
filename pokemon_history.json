@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-27T01:09:32.242423",
-    "pokemon_id": 556,
-    "pokemon_name": "Maractus",
-    "types": "Grass"
-  },
-  {
     "timestamp": "2025-10-28T01:02:18.888726",
     "pokemon_id": 779,
     "pokemon_name": "Bruxish",
@@ -598,5 +592,11 @@
     "pokemon_id": 753,
     "pokemon_name": "Fomantis",
     "types": "Grass"
+  },
+  {
+    "timestamp": "2026-09-20T03:43:51.057856",
+    "pokemon_id": 298,
+    "pokemon_name": "Azurill",
+    "types": "Normal / Fairy"
   }
 ]
