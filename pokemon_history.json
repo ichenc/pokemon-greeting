@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-28T01:02:18.888726",
-    "pokemon_id": 779,
-    "pokemon_name": "Bruxish",
-    "types": "Water / Psychic"
-  },
-  {
     "timestamp": "2025-10-29T01:07:14.000556",
     "pokemon_id": 150,
     "pokemon_name": "Mewtwo",
@@ -598,5 +592,11 @@
     "pokemon_id": 298,
     "pokemon_name": "Azurill",
     "types": "Normal / Fairy"
+  },
+  {
+    "timestamp": "2026-09-27T03:59:56.120930",
+    "pokemon_id": 196,
+    "pokemon_name": "Espeon",
+    "types": "Psychic"
   }
 ]

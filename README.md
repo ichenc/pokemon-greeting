@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png" width="250" height="250" alt="Azurill">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png" width="250" height="250" alt="Espeon">
 
-# Say hello to **Azurill**!
+# A wild **Espeon** appeared to greet you!
 
 <table>
 <tr>
-<td align="center"><strong>#298</strong></td>
-<td align="center"><strong>Normal / Fairy</strong></td>
-<td align="center"><strong>0.2 m</strong></td>
-<td align="center"><strong>2.0 kg</strong></td>
+<td align="center"><strong>#196</strong></td>
+<td align="center"><strong>Psychic</strong></td>
+<td align="center"><strong>0.9 m</strong></td>
+<td align="center"><strong>26.5 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Thick Fat, Huge Power**
+**Synchronize, Magic Bounce**
 
-### 📊 Base Stats (Total: 190)
+### 📊 Base Stats (Total: 525)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 40 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 20 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: September 20, 2026 at 03:43 UTC*
+*Last updated: September 27, 2026 at 03:59 UTC*
 
 ---
 
