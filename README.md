@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png" width="250" height="250" alt="Espeon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png" width="250" height="250" alt="Igglybuff">
 
-# A wild **Espeon** appeared to greet you!
+# **Igglybuff** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#196</strong></td>
-<td align="center"><strong>Psychic</strong></td>
-<td align="center"><strong>0.9 m</strong></td>
-<td align="center"><strong>26.5 kg</strong></td>
+<td align="center"><strong>#174</strong></td>
+<td align="center"><strong>Normal / Fairy</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>1.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Synchronize, Magic Bounce**
+**Cute Charm, Competitive**
 
-### 📊 Base Stats (Total: 525)
+### 📊 Base Stats (Total: 210)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 65 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 110 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
+| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ⚔️ Attack | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 15 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 15 | `▓░░░░░░░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Sending you good vibes! ✨
 
-*Last updated: September 27, 2026 at 03:59 UTC*
+*Last updated: October 04, 2026 at 04:37 UTC*
 
 ---
 
