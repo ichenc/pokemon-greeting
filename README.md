@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png" width="250" height="250" alt="Igglybuff">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png" width="250" height="250" alt="Paras">
 
-# **Igglybuff** wants to brighten your day!
+# Say hello to **Paras**!
 
 <table>
 <tr>
-<td align="center"><strong>#174</strong></td>
-<td align="center"><strong>Normal / Fairy</strong></td>
+<td align="center"><strong>#046</strong></td>
+<td align="center"><strong>Bug / Grass</strong></td>
 <td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>1.0 kg</strong></td>
+<td align="center"><strong>5.4 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Cute Charm, Competitive**
+**Effect Spore, Dry Skin**
 
-### 📊 Base Stats (Total: 210)
+### 📊 Base Stats (Total: 285)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
-| ⚔️ Attack | 30 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 15 | `▓░░░░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 15 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
 
-## ✨ Sending you good vibes! ✨
+## ✨ May your day be filled with joy! ✨
 
-*Last updated: October 04, 2026 at 04:37 UTC*
+*Last updated: October 11, 2026 at 04:22 UTC*
 
 ---
 
