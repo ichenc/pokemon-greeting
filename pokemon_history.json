@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31T01:04:34.441383",
-    "pokemon_id": 554,
-    "pokemon_name": "Darumaka",
-    "types": "Fire"
-  },
-  {
     "timestamp": "2025-11-01T01:08:04.753926",
     "pokemon_id": 115,
     "pokemon_name": "Kangaskhan",
@@ -598,5 +592,11 @@
     "pokemon_id": 46,
     "pokemon_name": "Paras",
     "types": "Bug / Grass"
+  },
+  {
+    "timestamp": "2026-10-18T03:19:23.152886",
+    "pokemon_id": 77,
+    "pokemon_name": "Ponyta",
+    "types": "Fire"
   }
 ]

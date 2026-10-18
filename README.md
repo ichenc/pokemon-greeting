@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png" width="250" height="250" alt="Paras">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png" width="250" height="250" alt="Ponyta">
 
-# Say hello to **Paras**!
+# You have been greeted by **Ponyta**
 
 <table>
 <tr>
-<td align="center"><strong>#046</strong></td>
-<td align="center"><strong>Bug / Grass</strong></td>
-<td align="center"><strong>0.3 m</strong></td>
-<td align="center"><strong>5.4 kg</strong></td>
+<td align="center"><strong>#077</strong></td>
+<td align="center"><strong>Fire</strong></td>
+<td align="center"><strong>1.0 m</strong></td>
+<td align="center"><strong>30.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Effect Spore, Dry Skin**
+**Run Away, Flash Fire**
 
-### 📊 Base Stats (Total: 285)
+### 📊 Base Stats (Total: 410)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 35 | `▓▓░░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
 | 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 25 | `▓░░░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
 
-## ✨ May your day be filled with joy! ✨
+## ✨ Have a fantastic day! ✨
 
-*Last updated: October 11, 2026 at 04:22 UTC*
+*Last updated: October 18, 2026 at 03:19 UTC*
 
 ---
 
