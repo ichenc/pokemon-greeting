@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01T01:08:04.753926",
-    "pokemon_id": 115,
-    "pokemon_name": "Kangaskhan",
-    "types": "Normal"
-  },
-  {
     "timestamp": "2025-11-02T01:08:42.120583",
     "pokemon_id": 786,
     "pokemon_name": "Tapu-Lele",
@@ -598,5 +592,11 @@
     "pokemon_id": 77,
     "pokemon_name": "Ponyta",
     "types": "Fire"
+  },
+  {
+    "timestamp": "2026-10-25T03:28:58.743553",
+    "pokemon_id": 139,
+    "pokemon_name": "Omastar",
+    "types": "Rock / Water"
   }
 ]

@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png" width="250" height="250" alt="Ponyta">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png" width="250" height="250" alt="Omastar">
 
-# You have been greeted by **Ponyta**
+# Greetings from **Omastar**!
 
 <table>
 <tr>
-<td align="center"><strong>#077</strong></td>
-<td align="center"><strong>Fire</strong></td>
+<td align="center"><strong>#139</strong></td>
+<td align="center"><strong>Rock / Water</strong></td>
 <td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>30.0 kg</strong></td>
+<td align="center"><strong>35.0 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Run Away, Flash Fire**
+**Swift Swim, Shell Armor**
 
-### 📊 Base Stats (Total: 410)
+### 📊 Base Stats (Total: 495)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 90 | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` |
+| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
+| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
 
-## ✨ Have a fantastic day! ✨
+## ✨ May your journey be legendary! ✨
 
-*Last updated: October 18, 2026 at 03:19 UTC*
+*Last updated: October 25, 2026 at 03:28 UTC*
 
 ---
 
