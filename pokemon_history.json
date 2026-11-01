@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-11-02T01:08:42.120583",
-    "pokemon_id": 786,
-    "pokemon_name": "Tapu-Lele",
-    "types": "Psychic / Fairy"
-  },
-  {
     "timestamp": "2025-11-02T21:36:31.145328",
     "pokemon_id": 113,
     "pokemon_name": "Chansey",
@@ -598,5 +592,11 @@
     "pokemon_id": 139,
     "pokemon_name": "Omastar",
     "types": "Rock / Water"
+  },
+  {
+    "timestamp": "2026-11-01T04:42:29.950169",
+    "pokemon_id": 925,
+    "pokemon_name": "Maushold-Family-Of-Four",
+    "types": "Normal"
   }
 ]

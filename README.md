@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png" width="250" height="250" alt="Omastar">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png" width="250" height="250" alt="Maushold-Family-Of-Four">
 
-# Greetings from **Omastar**!
+# Say hello to **Maushold-Family-Of-Four**!
 
 <table>
 <tr>
-<td align="center"><strong>#139</strong></td>
-<td align="center"><strong>Rock / Water</strong></td>
-<td align="center"><strong>1.0 m</strong></td>
-<td align="center"><strong>35.0 kg</strong></td>
+<td align="center"><strong>#925</strong></td>
+<td align="center"><strong>Normal</strong></td>
+<td align="center"><strong>0.3 m</strong></td>
+<td align="center"><strong>2.8 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Swift Swim, Shell Armor**
+**Friend Guard, Cheek Pouch**
 
-### 📊 Base Stats (Total: 495)
+### 📊 Base Stats (Total: 470)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 125 | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` |
-| ⚡ Speed | 55 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
+| ❤️ HP | 74 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 75 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 70 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 111 | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` |
 
-## ✨ May your journey be legendary! ✨
+## ✨ Wishing you happiness and success! ✨
 
-*Last updated: October 25, 2026 at 03:28 UTC*
+*Last updated: November 01, 2026 at 04:42 UTC*
 
 ---
 
