@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png" width="250" height="250" alt="Watchog">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png" width="250" height="250" alt="Dratini">
 
-# **Watchog** sends you positive vibes!
+# **Dratini** wants to brighten your day!
 
 <table>
 <tr>
-<td align="center"><strong>#505</strong></td>
-<td align="center"><strong>Normal</strong></td>
-<td align="center"><strong>1.1 m</strong></td>
-<td align="center"><strong>27.0 kg</strong></td>
+<td align="center"><strong>#147</strong></td>
+<td align="center"><strong>Dragon</strong></td>
+<td align="center"><strong>1.8 m</strong></td>
+<td align="center"><strong>3.3 kg</strong></td>
 </tr>
 <tr>
 <td align="center">Number</td>
@@ -20,20 +20,20 @@
 </table>
 
 ### 🎯 Abilities
-**Illuminate, Keen Eye**
+**Shed Skin, Marvel Scale**
 
-### 📊 Base Stats (Total: 420)
+### 📊 Base Stats (Total: 300)
 
 | Stat | Value | Bar |
 |------|-------|-----|
-| ❤️ HP | 60 | `▓▓▓▓░░░░░░░░░░░░░░░░` |
-| ⚔️ Attack | 85 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
-| 🛡️ Defense | 69 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
-| ⚡ Speed | 77 | `▓▓▓▓▓▓░░░░░░░░░░░░░░` |
+| ❤️ HP | 41 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚔️ Attack | 64 | `▓▓▓▓▓░░░░░░░░░░░░░░░` |
+| 🛡️ Defense | 45 | `▓▓▓░░░░░░░░░░░░░░░░░` |
+| ⚡ Speed | 50 | `▓▓▓░░░░░░░░░░░░░░░░░` |
 
 ## ✨ Sending you good vibes! ✨
 
-*Last updated: September 06, 2026 at 02:06 UTC*
+*Last updated: November 14, 2026 at 14:31 UTC*
 
 ---
 

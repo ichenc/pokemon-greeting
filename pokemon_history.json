@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25T01:01:27.991853",
-    "pokemon_id": 642,
-    "pokemon_name": "Thundurus-Incarnate",
-    "types": "Electric / Flying"
-  },
-  {
     "timestamp": "2025-10-26T01:08:16.927236",
     "pokemon_id": 547,
     "pokemon_name": "Whimsicott",
@@ -598,5 +592,11 @@
     "pokemon_id": 505,
     "pokemon_name": "Watchog",
     "types": "Normal"
+  },
+  {
+    "timestamp": "2026-11-14T14:31:09.827862",
+    "pokemon_id": 147,
+    "pokemon_name": "Dratini",
+    "types": "Dragon"
   }
 ]
